@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./MANGO-ML67/MANGO-ML/MANGO",
+        "./Mango_Detection",
+        "./MANGO"
+    ]
+}

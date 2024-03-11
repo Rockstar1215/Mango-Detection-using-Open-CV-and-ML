@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mango Ripeness Detector</title>
+
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+            animation: gradient 15s ease infinite;
+        }
+
+        @keyframes gradient {
+            0% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1em;
+            border: 2px solid #000;
+            padding: 1em;
+            border-radius: 1em;
+        }
+
+        img {
+            max-width: 100%;
+            max-height: 300px;
+        }
+
+        #result {
+            margin-top: 1em;
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <form id="uploadForm" method="POST" enctype="multipart/form-data">
+        <input type="file" name="image" id="imageUpload" accept=".png, .jpg, .jpeg"><br>
+        <img id="imagePreview" src="" alt="Image preview...">
+        <input type="submit" value="Predict">
+    </form>
+   <!-- Button to redirect to index.html -->
+    <form action="/">
+        <button type="submit">Go to Index</button>
+    </form>
+    <script>
+        document.getElementById("imageUpload").addEventListener("change", function(e) {
+            var reader = new FileReader();
+            reader.onload = function(e) {
+                document.getElementById("imagePreview").src = e.target.result;
+            }
+            reader.readAsDataURL(e.target.files[0]);
+        });
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $('#uploadForm').on('submit', function(e) {
+            e.preventDefault();
+            var formData = new FormData(this);
+            $.ajax({
+                type: 'POST',
+                url: '/mango_ripeness_prediction',
+                data: formData,
+                contentType: false,
+                processData: false,
+                success: function(data) {
+                 if (data.result) {
+                        alert('The predicted ripeness of the mango is: ' + data.result);
+                    } else {
+                        alert('Error: Unable to get ripeness prediction.');
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

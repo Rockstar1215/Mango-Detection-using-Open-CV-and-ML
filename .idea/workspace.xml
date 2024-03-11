@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79e84b78-4790-4e6b-bffa-5a0101783e16" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/.idea/Mango_Detection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/apple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/banana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/greenmango.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/mango.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/mango1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/orange.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/temp_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/templates/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploaded_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/0fc8f7f6-d40a-4f90-8c97-7913dc6a473b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/3fc443c8-c0f5-4fc7-83d2-8f88ee9efb64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/58a4da9e-8a58-47a0-8096-bd93d1e05882.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/8a3035ab-e9cd-451d-801a-431d0db4b756.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/94b1c007-cc04-451f-92c1-ddbb2fbb886b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/a26505b5-1c6b-406c-b2ae-431a2897e714.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/aa3ec0d7-f72d-4626-881f-ae60a787f148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/c9860713-bd20-4ad2-b41e-1f730067fb3b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/dfc5a7aa-968a-410e-8986-e02872854de8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/f53816d6-9290-4bcd-9c10-d954ab31004c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/f6ca7a59-ed83-4b80-b7fe-46e20d1811d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/fc4fb7a6-c16a-424e-9d97-9e4256abaddf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/ffa8324a-7e85-46b4-a174-a86154492c1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/temp_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mango_Detection/uploads/uploaded_image.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Mango_Detection" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Rockstar1215&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2c649ed2-c51b-4199-967a-a8bb0dcc51ac" />
+        <option name="url" value="https://github.com/Rockstar1215/Mango_Detection.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2XZKJHpIRLXsPpctOOImB2f22VP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/PycharmProjects/Mango_Detection&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\PycharmProjects\Mango_Detection" />
+      <recent name="C:\Users\hp\PycharmProjects\Mango_Detection\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Mango_Detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\hp\PycharmProjects\Mango_Detection\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79e84b78-4790-4e6b-bffa-5a0101783e16" name="Changes" comment="" />
+      <created>1698831088433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698831088433</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1701337878343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701337878343</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1701337912109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701337912109</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>
